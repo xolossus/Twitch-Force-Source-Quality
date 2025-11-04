@@ -76,5 +76,6 @@ Unlicensed – free to use, modify, and share. Don't commercialize it.
 
 ## 👤 Author
 
-xolossus 
+xolossus
+
 Designed for a seamless quality viewing experience.
