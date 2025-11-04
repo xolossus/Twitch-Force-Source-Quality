@@ -68,3 +68,13 @@ const PREFERRED_QUALITY_LABELS = ["Source", "1080p60", "1080p", "chunked"];
 
 // To force only 1080p60:
 const PREFERRED_QUALITY_LABELS = ["1080p60"];
+```
+
+## 📜 License
+
+Unlicensed – free to use, modify, and share. Don't commercialize it.
+
+## 👤 Author
+
+xolossus 
+Designed for a seamless quality viewing experience.
