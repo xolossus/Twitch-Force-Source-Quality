@@ -72,7 +72,7 @@ const PREFERRED_QUALITY_LABELS = ["1080p60"];
 
 ## 📜 License
 
-Unlicensed – free to use, modify, and share. Don't commercialize it.
+[MIT License](LICENSE)
 
 ## 👤 Author
 
