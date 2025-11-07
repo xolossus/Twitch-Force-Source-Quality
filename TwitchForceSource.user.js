@@ -3,12 +3,12 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Forces Twitch stream to Source (or optionally 1080p60) only when the URL changes (no repeated opening of settings). Also works when switching between streams on the sidebar.
-// @author       xolossus
+// @author       Rodrigo Carreira
 // @match        https://www.twitch.tv/*
 // @match        https://player.twitch.tv/*
 // @grant        none
 // @run-at       document-idle
-// @license      Unlicensed
+// @license      MIT
 // ==/UserScript==
 
 (function () {
